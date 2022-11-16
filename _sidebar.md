@@ -4,7 +4,7 @@
 - Daily homework
   - [1. PM]()
     - [how to build web](class/1pm/1pm-web.md)
-    - introduce team
+    - [introduce team](http://www.zju.edu.cn)
     - introduce finial project
   - [2. arduino basic]()
   - [3. CAD]()
